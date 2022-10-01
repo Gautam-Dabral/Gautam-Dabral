@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gautam-Dabral
-- 👀 I’m interested in Mechatronics, Automation and Programming
-- 🌱 I’m currently learning C++ and Autodesk Fusion360
+-  I’m interested in Product Design/ Development and Programming
+-  I’m currently learning Python Programming
+-  My Skillset includes - AutoCAD, Solidworks, Keyshot, C/C++ programming
 - 📫 You can reach me at gautamdabral1999@gmail.com 
 
 <!---
