@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gautam-Dabral
--  I’m interested in Product Design/ Development and Programming
--  I’m currently learning Python Programming
--  My Skillset includes - AutoCAD, Solidworks, Keyshot, C/C++ programming
+-  I’m interested in Programming and Development
+-  I’m currently learning front end technologies like HTML, CSS and JS.
+-  My Skillset includes - Python Programming, C/C++ programming, 
 - 📫 You can reach me at gautamdabral1999@gmail.com 
 
 <!---
