@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gautam-Dabral
 -  I’m interested in Programming and Development
--  I’m currently learning front end technologies like HTML, CSS and JS.
+-  I’m currently learning web-technologies like HTML, CSS, JS and Flask.
 -  My Skillset includes - Python Programming, C/C++ programming, 
 - 📫 You can reach me at gautamdabral1999@gmail.com 
 
