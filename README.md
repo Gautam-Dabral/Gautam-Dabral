@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gautam-Dabral
 -  I’m interested in Web Development
--  I’m currently learning MERN Stack Development.
--  My Skillset includes - Python, HTML5, CSS3, JavaScript, Nodejs, express, MongoDB  
+-  I’m currently learning React.
+-  My Skillset includes - Python, HTML5, CSS3, JavaScript, Nodejs, Express, MongoDB  
 - 📫 You can reach me at gautamdabral1999@gmail.com 
 
 <!---
